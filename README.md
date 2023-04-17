@@ -6,6 +6,7 @@ Repository SNA Class
 Here is some text:
 
 first bullet point
+
 second bullet point
 
 - [x] #739
